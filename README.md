@@ -1,3 +1,5 @@
+Carrito de compras básico. Se utiliza una libreriía para generar los id únicos de cada item creado.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
