@@ -1,5 +1,6 @@
 Carrito de compras básico. Se utiliza la siguiente librería para generar los id únicos de cada item creado:
 
+https://www.npmjs.com/package/uuid
 * npm install uuid
 
 # Getting Started with Create React App
